@@ -1,5 +1,5 @@
 # Afreak-Store-E-commerce
-MERN stack E-commerce website by using React JS
+MERN stack E-commerce website
 
 video link: https://www.youtube.com/watch?v=Hrlrbve4xp0
 
